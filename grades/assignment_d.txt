@@ -1,0 +1,18 @@
+* Correctly named artifacts: 20/20
+
+* Correct directory organization: 5/5
+
+* D runs without input: 5/5
+          
+* D takes arguments: 5/5
+
+* D connecting, sending, printing, disconnecting correctly: 12/12
+
+* Test cases: 0/15
+Please come down to my office hours we ll check and execute again. 
+       
+* Task 2: 18/18
+
+Total: (65/80)
+
+Graded by Divya.

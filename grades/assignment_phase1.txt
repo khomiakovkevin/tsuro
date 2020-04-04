@@ -1,0 +1,17 @@
+* Part A
+    - (5/5)   README
+    - (23/25) plan.md
+        + (-2) Didn't talk about the referee component
+* Part B
+    - (10/10) Delivery of artifacts
+    - (15/15) board.md
+    - (12/15) tiles.PP
+        + (-3) Not generating the 35 tiles algorithmically
+    - (4/5)   allTiles.PP
+        + (-1) not returning the tiles
+    - (5/5)   3 example renders of tiles
+
+Total: (74/80)
+
+Graded by Ivan Chen.
+

@@ -1,0 +1,10 @@
+* (6/6) Delivery of artifacts
+* (25/25) observer.PP
+* (21/21) xref tests
+* (29/30) xobs tests
+    - nice background
+    - (-1) player turn showing "testing0"?
+
+Total: (81/82)
+
+Graded by Ivan Chen.

@@ -1,0 +1,13 @@
+
+
+Date: 12/4
+
+Grade: 7/10
+
+Comments:
+  - exposed internal representations
+  - cyclic dependencies (referee - board)
+  - responsibilities: player checks validity of suicide for the ref
+  - some routines are unnecessarily long 
+  + well commented
+

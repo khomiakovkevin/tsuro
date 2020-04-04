@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd ../Other/out/artifacts/Phase4_jar
+java -jar Phase4.jar $1

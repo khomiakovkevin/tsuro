@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd ../Other/out/artifacts/Phase5Ref_jar
+java -jar Phase5Ref.jar $1

@@ -1,0 +1,15 @@
+
+Date: 11/8
+
+* (5/5) Overview
+* (4/5) Source code
+  - strings often used in place of enums - help the compiler help you
+* (4/5) Presentation style
+* (4/5) Participation
+  - lack of participation from a group member
+    
+
+Total: (17/20)
+
+Graded by: Ferd
+

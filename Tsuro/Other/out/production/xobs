@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd ../Other/out/artifacts/Phase5Obs_jar
+java -jar Phase5Obs.jar $1

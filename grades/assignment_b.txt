@@ -1,0 +1,12 @@
+* (19/19) Deliveries and B is executable with flags -up/-down
+    - nice!
+* (12/16) Running B tests
+    - 3/4 tests passed for up
+    - 3/4 tests passed for down
+    - (-4) exception for empty inputs
+* (15/15) traversal.md
+    - nice 
+
+Total: (46/50)
+
+Graded by Ivan Chen.

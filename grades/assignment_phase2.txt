@@ -1,0 +1,12 @@
+* Delivery of artifacts: 15/15
+
+* Design Task: 10/10
+
+* Programs Task: 15/15
+
+* Testing Task: 10/15
+  - (-5) Taking in input from the file, not as per specs.
+
+Total: 50/55
+
+Graded by Sai.

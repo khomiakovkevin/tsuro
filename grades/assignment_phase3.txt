@@ -1,0 +1,9 @@
+* (25/25) Delivery of artifacts
+* (15/15) player.md and referee.md 
+* (25/25) rules.PP method checking initial move
+* (20/20) rules.PP method checking intermediate move
+* (25/25) Testing
+
+Total: (110/110)
+
+Graded by Sai.

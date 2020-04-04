@@ -1,0 +1,5 @@
+[ { "name" : "jack", "strategy" : "dumb"},
+  { "name" : "alice", "strategy" : "dumb"},
+  { "name" : "bob", "strategy" : "dumb"},
+  { "name" : "mary", "strategy" : "dumb"},
+  { "name" : "thomas", "strategy" : "dumb"} ]

@@ -1,0 +1,12 @@
+* Thesis/support organization (4.5/5)
+* Grammar (5/5)
+* Typos (5/5)
+* Style (5/5)
+* Content (5/5)
+
+Comments - Good reasoning as to why Java is chosen. 
+Could have briefed more on how python is unfit.
+
+Total: (24.5/25)
+
+Graded by Divya.

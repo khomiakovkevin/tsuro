@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AssignmentD:jar">
+    <output-path>$PROJECT_DIR$/D/Other/out/artifacts/D_jar</output-path>
+    <root id="archive" name="D.jar">
+      <element id="module-output" name="D" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/gson-2.8.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

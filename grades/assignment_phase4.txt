@@ -1,0 +1,14 @@
+* Delivery of artifacts: 6/6
+
+* Design task: 5/5
+
+* Programming task: 29/29
+
+* Player implementation: /20
+  Did not find player.java, please mention the correct link
+
+* Testing task: 20/20
+
+Total: 60/80
+
+Graded by Divya.
